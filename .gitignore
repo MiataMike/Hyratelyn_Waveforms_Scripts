@@ -1,0 +1,6 @@
+# WaveForms measurement exports
+*.csv
+
+# Editor/OS clutter
+.DS_Store
+Thumbs.db
